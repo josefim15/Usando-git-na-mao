@@ -1,4 +1,9 @@
-def soma(a,b):
+def soma(a,b,):
     return a + b
 
-print(soma(1,1))
+def subtracao(a,b):
+    return a - b
+
+
+print(soma(5,5))
+print(subtracao(5,5))
