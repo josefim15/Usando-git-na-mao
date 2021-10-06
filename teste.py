@@ -7,8 +7,10 @@ def subtracao(a,b):
 def multiplicacao(a,b):
     return a * b
 
-
+def divisao(a,b):
+    return a / b
 
 print(soma(5,5))
 print(subtracao(5,5))
 print(multiplicacao(5,5))
+print(divisao(5,5))
